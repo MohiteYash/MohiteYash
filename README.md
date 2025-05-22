@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&multiline=true&width=435&height=45&lines=Building+AI+solutions+for+real-world+problems.;Researching+Deep+Learning+and+Edge+AI;Deploying+Models+on+Raspberry+Pi" alt="Typing SVG" />
 </p>
 
-<p align="center" style="max-width: 700px; margin: auto; font-size: 16px;">
-  I'm an AI/ML researcher and data scientist passionate about building innovative solutions in computer vision, audio classification, and edge AI. I develop and deploy fusion models for real-world problems like baby cry classification and drone detection, integrating them with edge devices such as Raspberry Pi. My work spans deep learning research, full-stack ML app development (Streamlit, FastAPI, Gradio), and publishing impactful research papers.
-</p>
+
 
 
 <p align="center" style="max-width: 700px; margin: auto; font-size: 16px;">
