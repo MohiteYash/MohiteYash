@@ -11,44 +11,44 @@ I'm an AI/ML researcher and data scientist passionate about building innovative 
 
 <p align="center" style="margin-top: 25px;">
   <!-- Programming Languages & Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/pytorch.svg" alt="PyTorch" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/scikitlearn.svg" alt="Scikit-learn" width="40" height="40" />
   
   <!-- Data handling -->
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40" />
-  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/pandas.svg" alt="Pandas" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/numpy.svg" alt="NumPy" width="40" height="40" />
 
   <!-- Visualization -->
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40" />
-  <img src="https://plotly.com/all_static/images/plotly_logomark.png" alt="Plotly" width="40" height="40" />
-  <img src="https://altair-viz.github.io/_static/altair-logo-light.svg" alt="Altair" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/matplotlib.svg" alt="Matplotlib" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/seaborn.svg" alt="Seaborn" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/plotly.svg" alt="Plotly" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/altair.svg" alt="Altair" width="40" height="40" />
   
   <!-- Audio & Vision -->
-  <img src="https://pytorch.org/assets/images/torchaudio-logo.png" alt="TorchAudio" width="40" height="40" />
-  <img src="https://pytorch.org/assets/images/torchvision-logo.png" alt="TorchVision" width="40" height="40" />
-  <img src="https://librosa.org/images/librosa-logo-white.png" alt="Librosa" width="40" height="40" />
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text.png" alt="OpenCV" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/pytorch.svg" alt="TorchAudio" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/pytorch.svg" alt="TorchVision" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/librosa.svg" alt="Librosa" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/opencv.svg" alt="OpenCV" width="40" height="40" />
   
   <!-- Web & Deployment -->
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40" />
-  <img src="https://gradio.app/assets/logo-mark.svg" alt="Gradio" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/streamlit.svg" alt="Streamlit" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/fastapi.svg" alt="FastAPI" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gradio.svg" alt="Gradio" width="40" height="40" />
   
   <!-- Object Detection -->
-  <img src="https://github.com/ultralytics/assets/raw/main/yolov5.png" alt="YOLO" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/yolov5.svg" alt="YOLO" width="40" height="40" />
   
   <!-- NLP & Transformers -->
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/huggingface.svg" alt="Hugging Face" width="40" height="40" />
   
   <!-- ML Libraries -->
-  <img src="https://xgboost.readthedocs.io/en/stable/_images/xgboost_logo.png" alt="XGBoost" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/xgboost.svg" alt="XGBoost" width="40" height="40" />
   
   <!-- Others -->
-  <img src="https://beautiful-soup-4.readthedocs.io/en/latest/_static/bs4_logo.png" alt="BeautifulSoup" width="40" height="40" />
-  <img src="https://www.raspberrypi.com/app/uploads/2020/03/Raspberry-Pi-Logo.svg" alt="Raspberry Pi" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/beautifulsoup.svg" alt="BeautifulSoup" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/raspberrypi.svg" alt="Raspberry Pi" width="40" height="40" />
 </p>
 
 
